@@ -1,0 +1,11 @@
+G:\Programování\4.ROČNÍK\Pisemka\Pisemka\bin\Debug\Pisemka.exe.config
+G:\Programování\4.ROČNÍK\Pisemka\Pisemka\bin\Debug\Pisemka.exe
+G:\Programování\4.ROČNÍK\Pisemka\Pisemka\bin\Debug\Pisemka.pdb
+G:\Programování\4.ROČNÍK\Pisemka\Pisemka\obj\Debug\Pisemka.csproj.AssemblyReference.cache
+G:\Programování\4.ROČNÍK\Pisemka\Pisemka\obj\Debug\Pisemka.csproj.SuggestedBindingRedirects.cache
+G:\Programování\4.ROČNÍK\Pisemka\Pisemka\obj\Debug\Pisemka.Form1.resources
+G:\Programování\4.ROČNÍK\Pisemka\Pisemka\obj\Debug\Pisemka.Properties.Resources.resources
+G:\Programování\4.ROČNÍK\Pisemka\Pisemka\obj\Debug\Pisemka.csproj.GenerateResource.cache
+G:\Programování\4.ROČNÍK\Pisemka\Pisemka\obj\Debug\Pisemka.csproj.CoreCompileInputs.cache
+G:\Programování\4.ROČNÍK\Pisemka\Pisemka\obj\Debug\Pisemka.exe
+G:\Programování\4.ROČNÍK\Pisemka\Pisemka\obj\Debug\Pisemka.pdb

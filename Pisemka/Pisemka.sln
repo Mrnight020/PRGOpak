@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pisemka", "Pisemka\Pisemka.csproj", "{EA0229D0-4357-4CE3-9F45-0EBAD26B4654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA0229D0-4357-4CE3-9F45-0EBAD26B4654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA0229D0-4357-4CE3-9F45-0EBAD26B4654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA0229D0-4357-4CE3-9F45-0EBAD26B4654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA0229D0-4357-4CE3-9F45-0EBAD26B4654}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D917625-C826-4C87-A7D0-A52F7F737D73}
+	EndGlobalSection
+EndGlobal
